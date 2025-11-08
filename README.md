@@ -69,7 +69,7 @@ This `Outlier` column served as the target label for the supervised training of 
 
 MIT License
 
-Copyright (c) @eng. Mohamed Taha Eslayed (2025)
+Copyright (c) @Mohamed Taha Eslayed (2025)
 
 
 
